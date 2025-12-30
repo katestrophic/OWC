@@ -8,7 +8,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-/// @purpose JavaFX remains separate from the Launcher
+/// @purpose JavaFX Application launcher
 public class OWCApplication extends Application {
 
     @Override
