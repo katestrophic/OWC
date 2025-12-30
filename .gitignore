@@ -6,15 +6,20 @@ Thumbs.db
 # --- IntelliJ --- #
 .idea/
 *.iml
+*.iws
+*.ipr
 
+
+# --- VS Code --- #
+.vscode/
 
 # --- Gradle --- #
 .gradle/
 build/
 
 
-# --- Maven --- #
-.maven
+# --- Kotlin --- #
+.kotlin
 
 
 # --- Java --- #
