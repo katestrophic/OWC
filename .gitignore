@@ -1,0 +1,27 @@
+# --- OS --- #
+.DS_Store
+Thumbs.db
+
+
+# --- IntelliJ --- #
+.idea/
+*.iml
+
+
+# --- Gradle --- #
+.gradle/
+build/
+
+
+# --- Maven --- #
+.maven
+
+
+# --- Java --- #
+*.class
+*.log
+
+
+# --- JavaFX --- #
+out/
+
