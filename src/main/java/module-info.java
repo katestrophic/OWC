@@ -7,4 +7,6 @@ module katestrophic.owc {
 
     // export the main package so the application can start
     exports katestrophic.owc;
+    exports katestrophic.owc.app;
+    opens katestrophic.owc.app to javafx.fxml;
 }

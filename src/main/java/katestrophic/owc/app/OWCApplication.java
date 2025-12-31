@@ -1,4 +1,4 @@
-package katestrophic.owc;
+package katestrophic.owc.app;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
